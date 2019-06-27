@@ -1,0 +1,3 @@
+[submodule "Codes/Emergency"]
+	path = Codes/Emergency
+	url = git@github.com:khaledalam/Gibson.git
