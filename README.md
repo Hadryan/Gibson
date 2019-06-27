@@ -10,14 +10,14 @@ Gibson Documentation: <a href="https://github.com/khaledalam/Gibson/blob/master/
 
 
 ## screenshots:
-| Patient  | <a href="Screenshots/patient">more patient screenshots</a> |
-| ------------- | ------------- |
-|<img src="Screenshots/patient/home.jpg" width="350"> | <img src="Screenshots/patient/doctors.jpg" width="350">l  |
+| Patient(<a href="Screenshots/patient">more</a>)  | .. | .. |
+| ------------- | ------------- | ------------- |
+|<img src="Screenshots/patient/home.jpg" width="250"> | <img src="Screenshots/patient/doctors.jpg" width="250">  | <img src="Screenshots/patient/emergency.jpg" width="250"> |
 
-| Doctor  | <a href="Screenshots/doctor">more doctor screenshots</a> |
-| ------------- | ------------- |
-|<img src="Screenshots/doctor/home.jpg" width="350"> | <img src="Screenshots/doctor/profile.jpg" width="350">l  |
+| Doctor(<a href="Screenshots/doctor">more</a>)  | .. | .. |
+| ------------- | ------------- | ------------- |
+|<img src="Screenshots/doctor/home.jpg" width="250"> | <img src="Screenshots/doctor/profile.jpg" width="250">  | <img src="Screenshots/doctor/reserv.jpg" width="250"> |
 
-| Emergency  | <a href="Screenshots/emergency">more emergency screenshots</a> |
-| ------------- | ------------- |
-|<img src="Screenshots/emergency/home.jpg" width="350"> | <img src="Screenshots/emergency/request.jpg" width="350">l  |
+| Emergency(<a href="Screenshots/emergency">more</a>)  | .. | .. |
+| ------------- | ------------- | ------------- |
+|<img src="Screenshots/emergency/home.jpg" width="250"> | <img src="Screenshots/emergency/request.jpg" width="250">  | <img src="Screenshots/emergency/history.jpg" width="250"> |
