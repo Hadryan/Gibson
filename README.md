@@ -1,7 +1,7 @@
 # Gibson
 Cross platform Mobile Medical Application.
 
-<a href="https://github.com/khaledalam/Gibson/blob/master/Gibson%20Documentation.pdf">Gibson Documentation.pdf</a>
+Gibson Documentation: <a href="https://github.com/khaledalam/Gibson/blob/master/Gibson%20Documentation.pdf">pdf</a> - <a href="https://docs.google.com/document/d/1M2r37pOT5EhYCq9zYWRSnCWDsw63Q9kfnKOZKeE3YoA/edit?usp=sharing">google doc</a>
 
 ## Apps:
 - <a href="https://github.com/khaledalam/Gibson/tree/master/Codes/Patient">Patient</a>
